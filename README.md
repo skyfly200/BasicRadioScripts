@@ -1,4 +1,4 @@
 RadioScripts
 ============
 
-Radio automation scripts for Winamp and Clever.
+Radio automation batch scripts for Winamp + Clever.
